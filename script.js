@@ -91,6 +91,7 @@ const messages = [
 
     "I'll take you to the moon!🌕",
 
+    "You are nya-mazing!🐱"
 
     "The world is a little better with you in it! 🌸",
 
