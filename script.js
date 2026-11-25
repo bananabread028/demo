@@ -93,6 +93,10 @@ const messages = [
 
     "Don't forget to smile today! ✨"
 
+    "You are out of this world!🌕"
+
+    "You are nya-mazing! 🤪"
+
 ];
 
 again.addEventListener("click", () => {
